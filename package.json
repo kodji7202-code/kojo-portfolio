@@ -1,0 +1,12 @@
+{
+  "name": "kojo-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Kojo — portfolio site. Developer tools, interfaces, motion.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173"
+  }
+}
