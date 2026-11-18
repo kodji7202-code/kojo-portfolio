@@ -141,7 +141,7 @@ export function Contact() {
           <div>
             <Reveal delay={0.04}>
               <h2 className="font-display text-[clamp(2.05rem,4.6vw,3.5rem)] font-medium leading-[1.02] tracking-[-0.038em] text-white">
-                Let's build something
+                Let's build something{" "}
                 <br />
                 <span className="text-gradient">worth verifying.</span>
               </h2>
