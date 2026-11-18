@@ -79,8 +79,8 @@ number of cycles per loop):
 python3 scripts/gen_ambient.py <out-dir>   # needs numpy, pillow and ffmpeg
 ```
 
-It writes `ambient.mp4` (H.264, 1080p, 12 s), `ambient.webm` (VP9) and the
-poster frame used for first paint.
+It writes `ambient.mp4` (H.264, 1600×900, 10 s, ~1.3 MB), `ambient.webm` (VP9)
+and the poster frame used for first paint.
 
 ## Deploy
 
