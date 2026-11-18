@@ -182,9 +182,9 @@ function ChartPreview() {
           {bars.map((h, i) => (
             <span
               key={i}
-              className="flex-1 rounded-[2px] bg-gradient-to-t from-aqua/25 to-mint/35"
+              className="flex-1 rounded-[1px] bg-gradient-to-t from-aqua/20 to-mint/30"
               style={{
-                height: `${h * 0.22}px`,
+                height: `${h * 0.13}px`,
                 transformOrigin: "bottom",
                 animation: `grow-bar 700ms cubic-bezier(0.16,1,0.3,1) ${i * 45 + 200}ms both`,
               }}

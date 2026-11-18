@@ -2,7 +2,7 @@
 
 Personal portfolio for **Kojo** — developer tools, interfaces and motion.
 
-Live: [kojo-portfolio.pages.dev](https://kojo-portfolio.pages.dev) (Cloudflare Pages)
+Live: **https://kojo-portfolio.pages.dev** (Cloudflare Pages, direct upload)
 
 ## Stack
 
